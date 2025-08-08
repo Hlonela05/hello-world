@@ -1,2 +1,1 @@
-# hello-world
-Question 2 of the 1st Practical
+My Name is Hlonela and I am 20 years old
